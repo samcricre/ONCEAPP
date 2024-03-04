@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "262373476794",
+    "firebase_url": "https://onceapp-d01aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "onceapp-d01aa",
+    "storage_bucket": "onceapp-d01aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262373476794:android:f057808f309d3944213583",
+        "android_client_info": {
+          "package_name": "com.example.onceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9BunhRsP7UcS2DVR48Z4lAsdtaUxP9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
